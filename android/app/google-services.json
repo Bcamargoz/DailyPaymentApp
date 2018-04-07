@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "384684852301",
+    "firebase_url": "https://dailypaymentapp.firebaseio.com",
+    "project_id": "dailypaymentapp",
+    "storage_bucket": "dailypaymentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384684852301:android:5c58755ce9a5b289",
+        "android_client_info": {
+          "package_name": "com.dailypayment.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384684852301-gepqpasd8rabecbsroudap17lbb9461k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3NAxwha2MY-qKEtakbiZKAl9SSesUVF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
